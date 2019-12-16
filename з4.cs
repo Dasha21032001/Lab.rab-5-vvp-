@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace лаб.раб__4_з4
+namespace лаб.раб__5_з4
 {
     class Program
     {
